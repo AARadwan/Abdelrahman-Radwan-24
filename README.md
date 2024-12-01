@@ -33,6 +33,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss%20-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![typeScript](https://img.shields.io/badge/-typeScript%20-05122A?style=flat&logo=typeScript)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
 
 
