@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Frontend Developer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, AngularJS, or anything related to Frontend development.
+- 💬 Ask me about my experience with JavaScript, Angular, or anything related to Frontend development.
 
 
 ### Connect with Me :
