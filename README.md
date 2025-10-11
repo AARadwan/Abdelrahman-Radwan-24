@@ -10,10 +10,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+
+
 - 🏢 I'm a Frontend Developer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, Angular, or anything related to Frontend development.
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Radwan-24&style=for-the-badge" alt="Profile Views"/>
+</p>
 
   <p>
      <a href="https://drive.google.com/file/d/1uKjrtZ30xLPnQMDZXJY_G-f-lYk-anuA/view?usp=sharing" target="_blank">
@@ -21,6 +26,7 @@
     <a href="https://abdelrahman-radwan-24.github.io/portfolio-me/">
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
   </p>
+
 
 
 
