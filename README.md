@@ -22,14 +22,14 @@
 <hr style="border: 1px solid #444; margin: 30px 0;">
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Radwan-24&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AARadwan&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p>
   <a href="https://drive.google.com/file/d/1uKjrtZ30xLPnQMDZXJY_G-f-lYk-anuA/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/>
   </a> &nbsp;
-  <a href="https://abdelrahman-radwan-24.github.io/portfolio-me/">
+  <a href="https://aaradwan.github.io/portfolio-me/">
     <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/>
   </a>
 </p>
@@ -94,11 +94,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Radwan-24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Radwan-24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AARadwan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <hr style="border: 1px solid #444; margin: 30px 0;">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdelrahman-Radwan-24/Abdelrahman-Radwan-24/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AARadwan/Abdelrahman-Radwan-24/output/github-contribution-grid-snake-dark.svg" />
 </p>
