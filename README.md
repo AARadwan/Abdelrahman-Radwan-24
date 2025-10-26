@@ -26,7 +26,7 @@
 </p>
 
 <p>
-  <a href="https://drive.google.com/file/d/1PpqRt-G_yLFo76Enw7iTPeT0fH3q3Qku/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/16CZ1zeHWCfMPmfIclm-bBSnxdoaS6fyo/view?usp=sharing">
     <img src="https://img.shields.io/badge/My%20CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/>
   </a> &nbsp;
   <a href="https://aaradwan.github.io/portfolio-me/">
